@@ -18,7 +18,7 @@ for move in moves:
         if x < n:
             x = x + 1
 
-print(x, y)
+print(x, y)   # 도착지점 출력
 
 
         
